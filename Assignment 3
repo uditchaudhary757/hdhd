@@ -1,0 +1,67 @@
+Assignment 3:
+
+Terminal Navigation
+
+Commands and Their Uses for Git:
+
+| Command
+
+| Task
+
+pwd
+
+Displays the current folder.
+
+1s
+
+| cd practice
+
+| Lists files.
+
+rm old.html
+
+I creates a folder.
+
+Moves to the parent folder.
+
+| `mkdir foldername |
+
+Creates a folder.
+
+touch index.html |
+
+Creates a empty file.
+
+clear
+
+Clears the terminal screen.
+
+rm -r css
+
+Delete a folder.
+
+rm old.html`
+
+Delete a file.
+
+code.
+
+Open folder in VS Code.
+
+clear
+
+Clear the scree.
+
+cp index.html
+
+| Copy a file.
+
+backup.html
+
+mv backup.html
+
+| old.html
+
+Rename / move a file.
+
+
