@@ -1,0 +1,61 @@
+Assignment-6
+
+
+HTML basic code
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>basics</title>
+
+</head>
+
+<body>
+
+I
+
+<h1>Example Web Page</h1>
+
+<h2>This Web Page</h2>
+
+<p>It is an example used to explain the basic model of HTML.</p>
+
+<h3>Basic structure has-: </h3>
+
+<p>HTML structure, headings, paragraphs and other tags and attributes.</p>
+
+<h4>It is a h4 tag.</h4>
+
+<p>Heading tags have different levels of heading which defines the importance of the text written in it. For example: h1 tag is used for the main heading
+
+of a web page.</p>
+
+</body>
+
+</html>
+
+Here-:
+
+<!DOCTYPE html> defines the version of html used. (HTML5)
+
+<html lang="en"> root element of the document. Lang attribute defines the Language of the document. here, it is English.
+
+<head> contains information about the document.
+
+<meta charset="UTF-8"> specifies the character encoding.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> helps the page adapt to mobile screens.
+
+<title> gives title of the document. (browser tab title)
+
+<body> contains the main content of the web page.
+
+<h1>,<h2>, <h3>..., <h6> heading tag of different sizes, used to define the importance of the text in the web page.
+<p> is use for paragraphs 
