@@ -1,0 +1,7 @@
+What happens between typing a URL and seeing the page?
+
+When we type a URL, for example: youtube.com, then the browser through which we're trying to contact the server/website asks DNS (Domain Name System) to find the IP address of the website. The IP address is then used by the browser to contact the computer on which the website is on i.e. the server can send it a request to the page through either HTTP or HTTPS. The server sends back the files that be are required to display the website. for example: the server sends the files of HTML, CSS and JavaScript. the browser can acts like a builder i.e. it puts together everything in the order like HTML for structure, CSS for styling and JavaScript for functioning. Finally, the browser puts everything together and displays the website.
+
+In short-:
+
+Browser -> asks DNS for IP address -> connects to the address of the website (server) -> sends a request through http/https -> the server sends files -> browser puts everything (files) together and displays of the website.
