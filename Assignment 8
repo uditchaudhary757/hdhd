@@ -1,0 +1,115 @@
+Assignment-8:
+
+resume-semantic
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="description" content="Resume">
+
+<title>Resume Udit Chaudhary(Semantic)</title>
+
+</head>
+
+<body>
+
+<h1>Udit Chaudhary</h1>
+
+<header>
+
+<p>Aspiring web Web Developer</p>
+
+<address>
+
+Bareilly, Uttar Pradesh, India<br>
+
+<a href="mailto: uditchaudhary757@gmail.com"> uditchaudhary757@gmail.com</a> | <a href="tel:+91 8171204748">+91 8171204748</a>
+
+</address>
+
+</header>
+
+<main>
+
+<section id="objective">
+
+<h2>Objective</h2>
+
+<p>Motivated student seeking an entry-level <strong>front-end developer</strong> role.</p>
+
+</section>
+
+<section id="education">
+
+<h2>Education</h2>
+
+<article>
+
+<h3>BCA in (Artificial Intelligence)</h3>
+
+<p>Invertis univeristy (at present-2026)</p>
+
+</article>
+
+<h3> UP Board Senior Secondary (XII)</h3>
+
+<article>
+
+<p>Chitragupt inter college rajpur kalan Bly, 2026 64%</p>
+
+</article>
+
+</section>
+
+<section id="skills">
+
+<h2>my skills</h2>
+
+<ul> <11>HTML5</li>
+
+<11>CSS3</li>
+
+<li>Git & GitHub</li>
+
+<li>VS Code</11>
+
+</ul>
+
+</section>
+
+<section id="projects">
+
+<h2>my Projects</h2>
+
+<article>
+
+<h3>Front-End To-Do List</h3>
+
+
+p>Created a to-do list website using HTML, CSS, and Javascript.<br><br> Designed a user-friendly interface to add and manage daily tasks.</p
+
+< </article>
+
+</section>
+
+</main>
+
+<p><small>I hereby declare that the above Information is true.</small></p>
+
+<footer>
+
+</footer>
+
+</body>
+
+</html>
+
+
+
