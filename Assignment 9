@@ -1,0 +1,93 @@
+Assignment-9
+Debugging a bug HTML code
+
+Bug code-
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>debug</title>
+
+</head>
+
+<body>
+
+<h1> bug code <h2>
+
+<p> am exemplary code </p>
+
+<p>This is my first HTML program.
+
+<h2>My Hobbies</h3>
+
+<ul>
+
+<li>Reading
+
+<li>Playing Cricket</li>
+
+<li>Listening Music</li>
+
+</ol>
+
+<img src="flower.jpg" width="200" height="200">
+
+<a href="https://www.google.com">Click Here
+
+</body>
+
+</html>
+
+Debugged code-
+
+<!DOCTYPE html>
+
+<head>
+
+<html lang="en">
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>debug</title>
+
+</head>
+
+<body>
+
+<h1> bug code </h1>
+
+<p> am exemplary code </p>
+
+<p>This is my first HTML program.</p>
+
+<h2>My Hobbies</h2>
+
+<ul>
+
+<li>Reading </li>
+
+<li>Playing Cricket</li>
+
+</ul>
+
+<li>Listening Music</li>
+
+<img src="flower.jpg" width="200" height="200" alt="flower">
+
+<a href="https://www.google.com">Click Here </a>
+
+</body>
+
+</html>
+
+
+
