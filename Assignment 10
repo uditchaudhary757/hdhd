@@ -1,0 +1,90 @@
+Assignment 10:
+Personal-introduction
+
+
+
+<!DOCTYPE html>
+
+<html lang="e">
+
+<head>
+
+H1
+
+<meta charset="UTF-8">
+
+<meta name "description" content="Personal Introduction">
+
+<meta name="viewport" content="width=device-width, initial-scale-1.0">
+
+<title>Personal Introduction</title>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Udit Chaudhary </h1>
+
+<p><em>BCA in Artificial Intelligence Student & Coffee lover, movie</em></p>
+
+</header>
+
+<main>
+
+<section>
+
+<h2>About Me</h2>
+
+<p>I am a first-year BCA in Artificial Intelligence Student from Bareilly. Currently I am learning HTML and CSS.</p>
+
+</section>
+
+<section>
+
+<h2>Quick Facts</h2>
+
+<ul>
+
+<li><strong>Age:</strong> 18</11>
+
+<li><strong>City:</strong> Bareilly, UP </li>
+
+<li><strong>Languages Known:</strong> Hindi, English</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>My Goals</h2>
+
+<10>
+
+<li>Finish the HTML & CSS course.</11>
+
+<li>Build projects.</li>
+
+<li>Learn JavaScript.</li>
+
+</ol>
+
+</section>
+
+<section>
+
+<h2>Contact</h2>
+
+<p>Email me at <a uditchaudhary757@gmail.com " >uditchaudhary757@gmail.com</a>.</p>
+
+</section>
+
+</main>
+
+<footer><p>&copy; 2026 Udit Chaudhary</p></footer>
+
+</body>
+
+</html>
